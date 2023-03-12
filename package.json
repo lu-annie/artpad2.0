@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/lu-annie/artpad2.0#readme",
   "dependencies": {
-    "p5": "^1.6.0"
+    "p5": "^1.5.0"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.0.1",
